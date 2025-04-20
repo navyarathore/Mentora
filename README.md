@@ -10,9 +10,9 @@
 
 </div>
 
-## 🏆 EDUChain Hackathon Semester 3 Project
+## 🏆 HACKOWASP 7.0 
 
-Mentora is an innovative Web3 education platform that combines blockchain technology with AI-powered learning assistance to create a next-generation learning experience. Built during EDU Chain Hackathon: Semester 3 , our platform aims to revolutionize how people learn and interact with Web3 technologies.
+Mentora is an innovative Web3 education platform that combines blockchain technology with AI-powered learning assistance to create a next-generation learning experience. Built during HACKOWASP 7.0, our platform aims to revolutionize how people learn and interact with Web3 technologies.
 
 ## 🔐 Contract Details
 * Mentora Contract Address: 0x032b4EcfFB926DF1611224e76812cD870fb8E0Bb 
@@ -81,7 +81,7 @@ Mentora addresses these challenges by providing:
 ## 📸 Screenshots
 
 ![Dashboard](public/firstpage.png)
-*AI-Powered Dashboard*
+![Dashboard](public/features.jpeg)
 
 ## 🏗️ Architecture
 ```mermaid
